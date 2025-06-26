@@ -26,8 +26,8 @@
 
 ## [English]
 ## Phase 1: Backend 🛢
-- [ ] Add sets
-- [ ] Import a dataset
+- [x] Add sets
+- [x] Import a dataset
 - [ ] Add a description to the game
 - [ ] Add language table
 - [ ] Add game_lang table
