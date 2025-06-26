@@ -4,8 +4,8 @@
  
 ## [French]
 ## Phase 1: Backend 🛢
-- [ ] Ajouter des jeux
-- [ ] Importer un jeu de donnée
+- [x] Ajouter des jeux
+- [x] Importer un jeu de donnée
 - [ ] Ajouter une description au jeu
 - [ ] Ajout d'une table langue
 - [ ] Ajout d'une table game_lang
